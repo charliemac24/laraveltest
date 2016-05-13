@@ -1,4 +1,5 @@
 admin account will be seeded
+you need to run db seed
 email : admin@mail.com
 password: 123
 
